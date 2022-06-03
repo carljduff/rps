@@ -1,0 +1,25 @@
+body {
+    background-color: #88A096;
+}
+
+.title {
+    text-align: center;
+    color: #F3FCF0;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.choice, .yourchoice, .computer, .computerchoice, .win {
+    text-align: center;
+}
